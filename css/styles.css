@@ -782,6 +782,7 @@ font-family: var(--font-family);
     line-height: 200%;
     letter-spacing: 0.04em;
     color: var(--white);
+    opacity: 0.6;
 }
 .email-footer-input {
     border: 1px solid var(--white);
@@ -796,6 +797,7 @@ font-family: var(--font-family);
     font-size: 12px;
     letter-spacing: 0.04em;
     line-height: 2;
+    opacity: 0.3;
 }
 .submit-footer {border-radius: 4px;
     min-width: 165px;
