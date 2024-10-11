@@ -990,6 +990,10 @@ ul {
     display: block;
     flex-wrap: wrap;
 }
+.footer-container-icons {
+    padding: 0 40px;
+    margin: 72px 0;
+}
 
 } 
 
