@@ -124,6 +124,7 @@ header .container {
     border-bottom: 1px solid var(--cornflower);
     max-width: 1158px;
     justify-content: space-between;
+    height: 72px;
 }
 
 .section-page-one {
