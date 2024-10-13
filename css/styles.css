@@ -523,7 +523,6 @@ p {
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin-top: 8px;
     gap: 24px;
     flex-wrap: nowrap;
 }
