@@ -930,7 +930,7 @@ margin-bottom: 40px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     header .container {
-        height: auto;
+        height: 100%;
     }
     .ul-address {
         display: none;
